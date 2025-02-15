@@ -16,15 +16,14 @@
     justify-content: center;
     font-size: 30px;
     margin-top: 30px;
-    margin-left: 300px;
+    margin-left: 0px;
     color: #FF66F0;
     font-family: 'Century Gothic', 'Avenir', 'Futura', sans-serif;
 }
 
 .downcentr{
     color: #ffffff;
-    margin-top: 250px;
-    margin-left: 350px;
+    margin-left: 50px;
     font-size: 90px;
     color: #FF66F0;
     font-family: 'Century Gothic', 'Avenir', 'Futura', sans-serif;
@@ -78,8 +77,20 @@ body {
     display: flex;
     justify-content: flex-end;
 }
+.wphoto{
+    display: flex;
+    flex-direction: row;
+}
+.photo{
+    width: 350px;
+    margin-top:350px;
+}
 
-
+.abtabt{
+    width: 600px;
+    margin-left: 400px;
+    margin-top:300px;
+}
 
 
 
