@@ -1,0 +1,116 @@
+.centr{
+    color: #ffffff;
+    margin-top: 50px;
+    font-size: 50px;
+    color: #FF66F0;
+    font-family: 'Century Gothic', 'Avenir', 'Futura', sans-serif;
+}
+.col{
+                
+    display: flex;
+    flex-direction: column;
+}
+
+.abt{
+    display: flex;
+    justify-content: center;
+    font-size: 30px;
+    margin-top: 30px;
+    margin-left: 300px;
+    color: #FF66F0;
+    font-family: 'Century Gothic', 'Avenir', 'Futura', sans-serif;
+}
+
+.downcentr{
+    color: #ffffff;
+    margin-top: 250px;
+    margin-left: 350px;
+    font-size: 90px;
+    color: #FF66F0;
+    font-family: 'Century Gothic', 'Avenir', 'Futura', sans-serif;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+
+}
+
+.micro{
+    display: flex;
+    justify-content: center;
+    font-size: 80px;
+}
+
+.easy{
+    font-size: 50px;
+    display: flex;
+    justify-content: center;
+    margin-top: -80px;
+    font-family: 'Century Gothic', 'Avenir', 'Futura', sans-serif;
+}
+.AI{
+    font-size: 300px;
+    display: flex;
+    justify-content: center;
+    margin-top: 150px;
+    font-family: 'Century Gothic', 'Avenir', 'Futura', sans-serif;
+}
+
+html {
+    width: 100%;
+    height: 100%;
+    background-color: #000000;
+}
+body {
+    margin: 0;
+}
+
+.balks{
+    display: flex;
+    justify-content: space-between;
+}
+.balk1{
+    width: 20%;
+    display: flex;
+    justify-content: flex-start;
+}
+.balk2{
+    width: 20%;
+    display: flex;
+    justify-content: flex-end;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
